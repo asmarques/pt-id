@@ -1,0 +1,32 @@
+{
+  "name": "pt-id",
+  "version": "0.0.1",
+  "description": "Validate and generate Portuguese specific identity numbers",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha ./test/test-*.js",
+    "lint": "./node_modules/.bin/jshint ./lib/*.js ./test/*.js"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.1",
+    "chai": "^2.1.2",
+    "jshint": "^2.6.3"
+  },
+  "author": "António Marques <me@antoniomarques.eu>",
+  "license": "MIT",
+  "homepage": "https://github.com/asmarques/pt-id",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/asmarques/pt-id"
+  },
+  "keywords": [
+    "portugal",
+    "nif",
+    "nipc",
+    "bi",
+    "bilhete",
+    "identidade",
+    "cartão",
+    "cidadão"
+  ]
+}
