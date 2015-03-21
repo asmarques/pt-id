@@ -1,6 +1,6 @@
 {
   "name": "pt-id",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Validate and generate Portuguese specific identity numbers",
   "main": "lib/index.js",
   "scripts": {
