@@ -1,0 +1,31 @@
+{
+  "name": "pt-id",
+  "main": "index.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/asmarques/pt-id",
+  "authors": [
+    "Antonio Marques <me@antoniomarques.eu>"
+  ],
+  "description": "A library for validating and generating Portuguese identity numbers",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "portugal",
+    "nif",
+    "nipc",
+    "bi",
+    "bilhete",
+    "identidade",
+    "cartão",
+    "cidadão"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
