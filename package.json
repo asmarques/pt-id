@@ -28,5 +28,6 @@
     "identidade",
     "cartão",
     "cidadão"
-  ]
+  ],
+  "types": "index.d.ts"
 }
