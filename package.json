@@ -8,8 +8,8 @@
     "lint": "./node_modules/.bin/jshint ./lib/*.js ./test/*.js"
   },
   "devDependencies": {
-    "mocha": "2",
-    "chai": "2",
+    "mocha": "8",
+    "chai": "4",
     "jshint": "2"
   },
   "author": "António Marques <me@antoniomarques.eu>",
