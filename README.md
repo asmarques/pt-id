@@ -1,5 +1,5 @@
 # pt-id
-[![Build Status](https://travis-ci.org/asmarques/pt-id.svg)](https://travis-ci.org/asmarques/pt-id)
+![Build Status](https://github.com/asmarques/pt-id/workflows/Continuous%20integration/badge.svg)
 
 A library for validating and generating Portuguese identity numbers.
 
