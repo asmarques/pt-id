@@ -8,9 +8,9 @@
     "lint": "./node_modules/.bin/jshint ./lib/*.js ./test/*.js"
   },
   "devDependencies": {
-    "mocha": "^2.2.1",
-    "chai": "^2.1.2",
-    "jshint": "^2.6.3"
+    "mocha": "2",
+    "chai": "2",
+    "jshint": "2"
   },
   "author": "António Marques <me@antoniomarques.eu>",
   "license": "MIT",
