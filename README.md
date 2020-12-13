@@ -1,5 +1,6 @@
 # pt-id
-![Build Status](https://github.com/asmarques/pt-id/workflows/Continuous%20integration/badge.svg)
+
+![Build Status](https://github.com/asmarques/pt-id/workflows/CI/badge.svg)
 
 A library for validating and generating Portuguese identity numbers.
 
