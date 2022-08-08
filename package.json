@@ -28,5 +28,10 @@
     "cartão",
     "cidadão"
   ],
-  "types": "index.d.ts"
+  "types": "index.d.ts",
+  "files": [
+    "lib/",
+    "index.js",
+    "index.d.ts"
+  ]
 }
